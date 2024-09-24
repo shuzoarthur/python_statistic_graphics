@@ -4,7 +4,7 @@ This repository contains a collection of Python programs developed in Google Col
 
 ## Scripts
 - [Script 1 - Circular Barplot](https://github.com/shuzoarthur/python_statistic_graphics/blob/main/circular_barplot.ipynb)  
-- [Program 2 - Time Series Analysis](#)  
+- [Script 2 - Stacked Area Chart](https://github.com/shuzoarthur/python_statistic_graphics/blob/main/Stacked_area__chart.ipynb)  
 - [Program 3 - Correlation Heatmaps](#)  
 
 ## Author
